@@ -16,4 +16,4 @@
     force = true
 
 [template.environment]
-    PG_URI = "Your postgress connection URI"
+    PG_URI = "postgres://yjzkrhropgqocm:f7adfbdf70ec344f0d7fc100b7dd000dbf6c75789ea74e573506ff1761bab752@ec2-52-205-61-60.compute-1.amazonaws.com:5432/d46tqa27cdv5aa"
